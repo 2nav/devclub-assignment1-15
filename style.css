@@ -211,7 +211,7 @@ th, td{
 }
 #q1, #q2, #q3{
     position: absolute;
-    width: 1360px;
+    width: 90%;
     left: 49px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
@@ -222,7 +222,7 @@ th, td{
 #an1, #an2, #an3{
     position:absolute;
     left: 48px;
-    width:1320px;
+    width:85%;
     text-align: left;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 20px;
