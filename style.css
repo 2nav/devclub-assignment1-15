@@ -195,6 +195,7 @@ th, td{
 #faqs{
     position: absolute;
     top: 3100px;
+    width: 100%;
     
 }
 #fhead{
