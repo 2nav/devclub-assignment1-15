@@ -68,7 +68,7 @@ a:hover{
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 96px;
     color : #fff;
-    width: 1000px;    
+    width: 1026px;    
     padding: 50px;
     margin: 2px;
 }
@@ -77,7 +77,7 @@ a:hover{
     top : 30px;
     height : 500px;
     width : 500px;
-    float : right;
+    left: 1000px;
     
 }
 #Tips{
@@ -88,7 +88,7 @@ a:hover{
 #thead{
     position :relative;
     top : 50px;
-    left : 710px; 
+    width: 1522px;
     color : rgb(68, 27, 175);
     font-family : Roboto;
     font-weight: 600;
@@ -100,7 +100,7 @@ a:hover{
     position: absolute;
     width : 1000px;
     height: 100px;
-    left: 187px;
+    left: 191px;
     font-family : 'Montserrat', sans-serif;
     font-size: 48px;
     border: 1px solid rgb(35, 210, 223);
@@ -131,7 +131,7 @@ a:hover{
     height: 220px;
     width: 220px;
     top: 515px;
-    right: 230px;    
+    left: 1078px;    
 }
 .Rec{
     position: absolute;
@@ -152,7 +152,7 @@ a:hover{
 #shead{
     position :absolute;
     top : 50px;
-    left : 617.5px; 
+    width: 1522px;
     color : rgb(68, 27, 175);
     font-family : Roboto;
     font-weight: 600;
@@ -192,13 +192,13 @@ th, td{
 #faqs{
     position: absolute;
     top: 3050px;
-    width: 1520px;
+    width: 1528px;
     
 }
 #fhead{
     position :absolute;
     top : 50px;
-    left : 687.4px; 
+    width: 1522px; 
     color : rgb(68, 27, 175);
     font-family : Roboto;
     font-weight: 600;
@@ -209,7 +209,7 @@ th, td{
 #q1, #q2, #q3{
     position: absolute;
     width: 1420px;
-    left: 49px;
+    left: 53px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 36px;
@@ -218,7 +218,7 @@ th, td{
 }
 #an1, #an2, #an3{
     position:absolute;
-    left: 48px;
+    left: 52px;
     width:1400px;
     text-align: left;
     font-family: 'Roboto Condensed', sans-serif;
@@ -250,12 +250,12 @@ th, td{
 #yt{
     position: absolute;
     top: 3950px;
-    width: 1520px;
+    width: 1528px;
 }
 #yhead{
     position :absolute;
     top : 50px;
-    left : 640.5px; 
+    width: 1522px;
     color : rgb(68, 27, 175);
     font-family : Roboto;
     font-weight: 600;
@@ -265,8 +265,10 @@ th, td{
 }
 #vid{
     position: absolute;
+    width: 560px;
+    height: 315px;
     top : 250px;
-    left: 480px;
+    left: 484px;
 }
 .Rec4{
     position: absolute;
@@ -284,12 +286,13 @@ th, td{
     top:4715px;
     width: 1528px;
     height: 120px;
+    left:0px;
 
 }
 #foohead{
     position: absolute;
     top: 0;
-    right: 80px;
+    right: 88px;
     font-family: Roboto;
     color: rgb(68, 27, 165);
     font-size: 24px;
@@ -302,12 +305,13 @@ th, td{
 #gh{
     position: absolute;
     top: 40px;
-    right: 70px;
+    left:1420px;
+    
 }
 #li{
     position: absolute;
     top: 40px;
-    right: 20px;
+    right: 16px;
 }
 #bye{
     position: absolute;
