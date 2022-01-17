@@ -8,7 +8,7 @@ html{
 .tlink{
     background: linear-gradient(to right, rgb(68, 27, 165), rgb(51.5,118.5,194));
     border: 1px solid green;
-    height : 2%;
+    height : 5%;
     width: 100%;
     position: fixed;
     z-index: 5;
