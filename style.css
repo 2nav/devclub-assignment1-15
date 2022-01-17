@@ -311,16 +311,16 @@ th, td{
 #vid{
     position: absolute;
     top : 30%;
-    height: 60%;
+    height: 70%;
     width: 95%;
     left: 2.5%;
 }
 .Rec4{
     position: absolute;
-    width: 87%;
-    height: 120px;
+    width: 100%;
+    height: 18%;
     left: 0px;
-    top: 500%;
+    top: 460%;
     /* background-position: left top; */
     /* background-image: linear-gradient(to bottom right, rgb(68, 27, 165), rgb(35, 210, 223)); */
     background: #fff;
@@ -330,46 +330,40 @@ th, td{
 }
 #foot{
     position: absolute;
-    top:500%;
-    width: 87%;
-    height: 120px;
+    top:460%;
+    width: 100%;
+    height: 20%;
+    border: 1px solidgreen;
 
 }
 #foohead{
     position: absolute;
-    top: 0;
+    top: 30%;
+    width: 100%;
     font-family: Roboto;
     color: rgb(68, 27, 165);
     font-size: medium;
-    width: 250px;
-    height: 100px;
-    line-height: 100px;;
-    
-    padding: 10px;
-    margin: 2px;
+    text-align: center;
 }
 #gh{
     position: absolute;
-    top: 40px;
+    top: 55%;
+    left: 38%;
 
 }
 #li{
     position: absolute;
-    top: 40px;
-    right: 20px;
+    top: 55%;
+    right: 38%;
 }
 #bye{
     position: absolute;
     top: 0;
     font-family: 'Montserrat', sans-serif;
     color: rgb(68, 27, 165);
-    font-size: medium;
-    width: 250px;
-    height: 100px;
-    line-height: 100px;;
-    
-    padding: 10px;
-    margin: 2px;
+    font-size: x-large;
+    width: 100%;
+    text-align: center;
 }
 div{
     margin: auto;
