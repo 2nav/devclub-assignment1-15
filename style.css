@@ -89,7 +89,7 @@ a:hover{
     border: 1px solid green;
     top: 100%;
     width: 100%;
-    height: 80%;
+    height: 90%;
     margin-top: 0%;
     margin-left: 0;
     padding: 0%;
@@ -113,7 +113,7 @@ a:hover{
 }
 #tip1, #tip2{
     position: absolute;
-    line-height: 800%;
+    line-height: 600%;
     width : 40%;
     height: 15%;
     left: 5%;
@@ -127,14 +127,14 @@ a:hover{
 }
 
 #tip1{
-    top: 10%;
+    top: 12%;
     margin : 2% 0 0 0;
     text-align: center;
 }
 #im2{
     position: absolute;
     border: 1px solid green;
-    top: 13%;
+    top: 15%;
     width: 50%;
     left: 25%;
 }
@@ -156,7 +156,7 @@ a:hover{
     width: 100%;
     height: 70%;
     left: 0px;
-    top: 180%;
+    top: 190%;
     /* background-position: left top; */
     /* background-image: linear-gradient(to bottom right, rgb(68, 27, 165), rgb(35, 210, 223)); */
     background: rgb(35, 210, 223);
@@ -167,7 +167,7 @@ a:hover{
 }
 #Symptoms{
     position :absolute;
-    top : 180%;
+    top : 190%;
     width: 100%;
     left : 0px;
     height: 50%;
