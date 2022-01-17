@@ -214,7 +214,7 @@ th, td{
     width: 100%;
     height: 120%;
     left: 0px;
-    top: 280%;
+    top: 285%;
     /* background-position: left top; */
     /* background-image: linear-gradient(to bottom right, rgb(68, 27, 165), rgb(35, 210, 223)); */
     background: #fff;
@@ -224,16 +224,18 @@ th, td{
 }
 #faqs{
     position: absolute;
-    top: 280%;
+    top: 270%;
     width: 100%;
-    height: 100%;
+    height: 135%;
     margin: auto;
     left: 0;
+    border: 1px solid green;
+
     
 }
 #fhead{
     position :absolute;
-    top : 0px;
+    top : 5%;
     width: 100%;
     text-align: center;
     color : rgb(68, 27, 175);
