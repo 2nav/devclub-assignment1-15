@@ -89,8 +89,8 @@ a:hover{
     border: 1px solid green;
     top: 100%;
     width: 100%;
-    height: 70%;
-    margin-top: %;
+    height: 80%;
+    margin-top: 0%;
     margin-left: 0;
     padding: 0%;
     left: 0;
@@ -113,10 +113,10 @@ a:hover{
 }
 #tip1, #tip2{
     position: absolute;
-    line-height: 200%;
+    line-height: 800%;
     width : 40%;
     height: 15%;
-    left: 5%; 
+    left: 5%;
     font-family : 'Montserrat', sans-serif;
     font-size: x-large;
     border: 1px solid rgb(35, 210, 223);
@@ -126,46 +126,37 @@ a:hover{
     background-color: #FFFFFF;
 }
 
+#tip1{
+    top: 10%;
+    margin : 2% 0 0 0;
+    text-align: center;
+}
 #im2{
     position: absolute;
     border: 1px solid green;
-    top: 15%;
-    height: 22.5%;
+    top: 13%;
     width: 50%;
     left: 25%;
-    
-}
-#tip1{
-    top: 12%;
-    margin : 2% 0 0 0;
-    text-align: center;
-    
-    
 }
 #tip2{
-    top:380px;
+    top:55%;
+    margin : 2% 0 0 0;
     text-align: center;
-    line-height: 100px;
-    padding-top: 55%;
-    padding-bottom: 20%;
-    line-height: normal;
 }
 #im3{
     position: absolute;
     border: 1px solid green;
-    height: 180px;
-    width: 180px;
-    top: 385px;
-    right: 15%;
-    left: 21%;
+    width: 50%;
+    top: 58%;
+    left: 25%;
     
 }
 .Rec{
     position: absolute;
-    width: 87%;
-    height: 640px;
+    width: 100%;
+    height: 70%;
     left: 0px;
-    top: 160%;
+    top: 180%;
     /* background-position: left top; */
     /* background-image: linear-gradient(to bottom right, rgb(68, 27, 165), rgb(35, 210, 223)); */
     background: rgb(35, 210, 223);
@@ -176,8 +167,8 @@ a:hover{
 }
 #Symptoms{
     position :absolute;
-    top : 160%;
-    width: 87%;
+    top : 180%;
+    width: 100%;
     left : 0px;
     height: 50%;
     border: 1px solid green;
@@ -186,7 +177,7 @@ a:hover{
 }
 #shead{
     position :absolute;
-    top : 0px;
+    top : 0%;
     border: 1px solid green;
     left:0px;
     width: 100%;
@@ -209,7 +200,7 @@ table , th, td{
 }
 table{
     position: absolute;
-    top: 170%;
+    top: 200%;
     left : 0%;
     width: 87%;
     height: 60%;
