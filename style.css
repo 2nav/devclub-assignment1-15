@@ -212,7 +212,7 @@ th, td{
 .Rec3{
     position: absolute;
     width: 100%;
-    height: 130%;
+    height: 125%;
     left: 0px;
     top: 285%;
     /* background-position: left top; */
@@ -291,15 +291,17 @@ th, td{
 }
 #yt{
     position: absolute;
-    top: 450%;
-    width: 87%
-    
+    top: 410%;
+    width: 100%;
+    border: 1px solid green;
+    height : 40%;
+    left: 0%;
     
 }
 #yhead{
     position :absolute;
     top : 0px;
-    width: 87%;
+    width: 100%;
     text-align : center; 
     color : rgb(68, 27, 175);
     font-family : Roboto;
@@ -308,9 +310,10 @@ th, td{
 }
 #vid{
     position: absolute;
-    top : 180px;
-    width: 360px;
-    left: 0px;
+    top : 30%;
+    height: 60%;
+    width: 95%;
+    left: 2.5%;
 }
 .Rec4{
     position: absolute;
